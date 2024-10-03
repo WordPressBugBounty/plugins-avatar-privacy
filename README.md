@@ -1,0 +1,1 @@
+# plugins-avatar-privacy
